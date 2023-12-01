@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Advent calendar? Yes, please but... orf code</h1>
+<h1 align="center" style="font-weight: bold;">Advent calendar? Yes, please but... of code</h1>
 <h3 align="center">Fun| CODE| Code skills</h3>
 
 ## Description
